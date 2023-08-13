@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Masterproef Datagathering</string>
+    <string name="gatt_service_name">Gatt Service</string>
+    <string name="title_activity_presentation._question_acitivity">presentation.QuestionAcitivity
+    </string>
+    <string name="title_activity_question_acitivity">QuestionAcitivity</string>
+    <string name="title_activity_presentation._eval">presentation.EvalActivity</string>
+    <string name="title_activity_eval">EvalActivity</string>
+</resources>
